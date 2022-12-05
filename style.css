@@ -1,3 +1,13 @@
 body {
-
+  background-color:black ;
+}
+h3 {
+  color: lime;
+    text-align: center;
+  font-size: 80px;
+  letter-spacing: 6px;
+  text-shadow: 3px 7px 10px red;
+}
+img{
+  border: dashed red 3px;
 }
