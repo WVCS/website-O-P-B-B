@@ -2,17 +2,17 @@ body {
   background-color: gray;
 }
 h3 {
-  color: aquamarine;
+  color: black;
     text-align: center;
   font-size: 80px;
   letter-spacing: 6px;
   text-shadow: 3px 7px 10px white;
   text-decoration-line: underline;
   text-decoration-color: white;
-  padding: 50px;
+  padding: 100px;
 }
 img{
-  border: dotted white 3px;
+  border: white 3px;
 }
 nav {
   list-style-type: none;
