@@ -9,6 +9,7 @@ h3 {
   text-shadow: 3px 7px 10px white;
   text-decoration-line: underline;
   text-decoration-color: white;
+  padding: 50px;
 }
 img{
   border: dotted white 3px;
